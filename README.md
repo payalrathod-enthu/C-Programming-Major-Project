@@ -17,8 +17,10 @@ Conditional statements
 
 Loops
 
+
 This system allows users to manage passengers, flights, bookings, check-in, baggage, and view simple reports.
 It aims to demonstrate how a real airline reservation workflow can be represented using structured programming in C.
+
 
 **Features**
 
@@ -30,6 +32,7 @@ It aims to demonstrate how a real airline reservation workflow can be represente
 
 -Fare, gate, timings, seats available
 
+
 **Passenger Management**
 
 -Add new passengers
@@ -38,6 +41,7 @@ It aims to demonstrate how a real airline reservation workflow can be represente
 
 **Ticket Booking System**
 
+
 -Book tickets with auto-generated PNR
 
 -Automatic seat assignment
@@ -45,6 +49,7 @@ It aims to demonstrate how a real airline reservation workflow can be represente
 -Modify booking (change flight)
 
 -Cancel booking
+
 
 **Check-In & Baggage**
 
@@ -56,6 +61,7 @@ It aims to demonstrate how a real airline reservation workflow can be represente
 
 -Simple boarding pass generation
 
+
 **Reports**
 
 -Flight occupancy report
@@ -64,8 +70,13 @@ It aims to demonstrate how a real airline reservation workflow can be represente
 
 -View all baggage records
 
+
 **Tech Stack**
+
 -Language: C
+
 -Compiler: GCC / MinGW / CodeBlocks / VS Code
+
 -Paradigm: Structured Programming
+
 -Libraries Used: <stdio.h>, <string.h>
